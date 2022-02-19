@@ -1,6 +1,7 @@
 .quiz-name{
   font-weight: bolder;
   color: rgba(000,102,190,1);
+  margin-left:150px
 }
 
 .navbar{
@@ -10,5 +11,9 @@
 
   .navbar{
     height: 50px;
+  }
+
+  .quiz-name{
+    margin-left:0;
   }
 }

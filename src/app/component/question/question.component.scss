@@ -17,8 +17,8 @@ li{
 }
 
 li .border:hover{
-  color: rgba(225, 130, 150, 1);
-  font-size: 16px;
+  color: orange;
+  font-size: 17px;
   font-weight: bold;
   cursor: pointer;
 }
@@ -99,6 +99,11 @@ font-weight: bold;
 
 .mark-text{
   color: grey;
+}
+
+.re-attempt{
+  color: white;
+  font-weight: bold;
 }
 
 @media only screen and (max-width: 600px){

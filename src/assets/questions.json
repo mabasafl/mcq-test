@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+          "questionText": "Complete this series: 9 = 4, 21 = 9, 22 = 9, 24 = 10, 8 = 5, 7 = 5, 99 = 10, 100 = 7, 16 = ?, 17 = ?",
+          "options": [{
+                  "text": "16 = 7 and 17 = 9",
+                  "correct": true
+              },
+              {
+                  "text": "16 = 8 and 17 = 9"
+              },
+              {
+                  "text": "16 = 7 and 17 = 8"
+              },
+              {
+                  "text": "16 = 9 and 17 = 8"
+              }
+          ],
+          "explanation": "[(Each number equal the number of letters in their spelling, i.e. 16 (sixteen) is 7 and 17 (seventeen) is 9.]"
+      },
+      {
+          "questionText": "What is next in this sequence? JFMAMJJASON",
+          "options": [{
+                  "text": "The letter S"
+              },
+              {
+                  "text": "The letter A"
+              },
+              {
+                  "text": "The letter M"
+              },
+              {
+                  "text": "The letter D",
+                  "correct": true
+              }
+          ],
+          "explanation": "The sequence contains the first letter of each month."
+      },
+      {
+          "questionText": "Sometimes I am born in silence. I am unseen, But I make my presence known. In time, I fade without a trace. I harm no one, but I am unpopular with all. What am I?",
+          "options": [{
+                  "text": "Sea breeze."
+              },
+              {
+                  "text": "A fart.",
+                  "correct": true
+              },
+              {
+                  "text": "Light wind."
+              },
+              {
+                  "text": "Love."
+              }
+          ],
+          "explanation": " "
+      },
+      {
+          "questionText": "What is 3/7 chicken, 2/3 cat, and 2/4 goat?",
+          "options": [{
+                  "text": "Chicken"
+              },
+              {
+                  "text": "Chicago",
+                  "correct": true
+              },
+              {
+                  "text": "Animal!"
+              },
+              {
+                  "text": "None of the above."
+              }
+          ],
+          "explanation": " "
+      },
+      {
+          "questionText": "There is a 3-digit number. The second digit is four times as big as the third digit, while the first digit is three less than the second digit. What is the number?",
+          "options": [{
+                  "text": "141",
+                  "correct": true
+              },
+              {
+                  "text": "143"
+              },
+              {
+                  "text": "246"
+              },
+              {
+                  "text": "283"
+              }
+          ],
+          "explanation": " "
+      },
+      {
+          "questionText": "You have 50 biscuits. How many times can you subtract 5 from 50 biscuits?",
+          "options": [{
+                  "text": "10 times"
+              },
+              {
+                  "text": "5 times"
+              },
+              {
+                  "text": "9 times"
+              },
+              {
+                  "text": "Once",
+                  "correct": true
+              }
+          ],
+          "explanation": "Once only because after that it will not be 50 biscuits. As you subtract 5 biscuits it will be 45 and not 50 anymore."
+      },
+      {
+          "questionText": "Suppose 1+9+8=1, then what can be 2+8+9?",
+          "options": [{
+                  "text": "2"
+              },
+              {
+                  "text": "10",
+                  "correct": true
+              },
+              {
+                  "text": "19"
+              },
+              {
+                  "text": "9"
+              }
+          ],
+          "explanation": "Consider the first letter of the spelling of each digit, One+Nine+Eight= ONE, similarly Two+Eight+Nine= TEN"
+      },
+      {
+          "questionText": "What does a man do only once in his lifetime, but women do once a year after they are 29?",
+          "options": [{
+                  "text": "Turn 30",
+                  "correct": true
+              },
+              {
+                  "text": "Buy a car"
+              },
+              {
+                  "text": "Start a family"
+              },
+              {
+                  "text": "Show affection"
+              }
+          ],
+          "explanation": " "
+      },
+      {
+          "questionText": "There are two ducks in front of a duck, two ducks behind a duck and a duck in the middle. How many ducks are there?",
+          "options": [{
+                  "text": "Three ducks",
+                  "correct": true
+              },
+              {
+                  "text": "Six ducks"
+              },
+              {
+                  "text": "Five ducks"
+              },
+              {
+                  "text": "Two ducks"
+              }
+          ],
+          "explanation": "Two ducks are in front of the last duck; the first duck has two ducks behind; one duck is between the other two."
+      },
+      {
+        "questionText": "The day before two days after the day before tomorrow is Saturday. What day is it today?",
+        "options": [{
+                "text": "Friday",
+                "correct": true
+            },
+            {
+                "text": "Sunday"
+            },
+            {
+                "text": "Thursday"
+            },
+            {
+                "text": "Monday"
+            }
+        ],
+        "explanation": "The “day before tomorrow” is today; “the day before two days after” is really one day after. So if “one day after today is Saturday,” then it must be Friday."
+    }
+  ]
+}

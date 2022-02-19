@@ -1,0 +1,27 @@
+<div class="container-fluid ">
+  <div class="card ">
+    <div class="card-body">
+      <h1 class="text-left fw-bold display-5 py-2">Welcome to logic MCQ.</h1>
+      <h5> This quiz will contain a total of 10 questions. </h5>
+      <div class="py-2">
+        <h5>Rules:</h5>
+        <ol>
+          <li>You will have 60 seconds to answer.</li>
+          <li>Correct answer gives you 2 points.</li>
+          <li>Once you begin, there's no going back to previous question(s).</li>
+          <li>Refreshing the page will reset the quiz.</li>
+          <li>Please complete all questions</li>
+        </ol>
+      </div>
+
+      <div class="name col-md-4 my-3">
+        <label for="">Enter your name :</label>
+        <input type="text" #name class="form-control">
+      </div>
+      <div>
+        <button class=" btn btn-sm" (click)="startQuiz()" routerLink="/question">Start the Quiz</button>
+      </div>
+      <h3 class="text-center" style="font-family: cursive;">All the best</h3>
+    </div>
+  </div>
+</div>

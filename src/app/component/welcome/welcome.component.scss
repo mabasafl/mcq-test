@@ -1,0 +1,92 @@
+.card{
+  max-width: 60%;
+  margin: 10px auto;
+  border: none;
+  color: rgba(30, 30, 10, 0.9);
+}
+
+.container-fluid{
+  margin-top: -10px;
+}
+
+h1{
+  color: rgba(25,102,220,0.8)
+}
+h3{
+  margin-left: -600px;
+  margin-top: 10px;
+}
+
+button{
+  background:rgba(000,102,220,0.4) ;
+  color: white;
+}
+
+@media only screen and (max-width: 600px){
+  .card-body{
+    margin:0 -70px;
+  }
+
+  h1{
+    font-size: 20px;
+  }
+
+  h5{
+    font-size: 16px;
+  }
+
+  h3{
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left:10px
+  }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 769px){
+  .card-body{
+    margin:0 0px;
+  }
+
+  h1{
+    font-size: 26px;
+  }
+
+  h5{
+    font-size: 18px;
+  }
+
+  h3{
+    font-size: 17px;
+    margin-top: 20px;
+    margin-left:-100px
+  }
+
+  input{
+    width: 300px
+  }
+}
+
+@media only screen and (min-width: 769px)  and (max-width: 991px){
+  h3{
+   font-size: 20px;
+    margin-top: 20px;
+    margin-left:-100px
+  }
+
+  input{
+    width: 300px
+  }
+}
+
+
+@media only screen and (min-width: 991px) {
+  h3{
+   font-size: 20px;
+    margin-top: 20px;
+    margin-left:-230px
+  }
+
+  input{
+    width: 300px
+  }
+}
